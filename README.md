@@ -4,7 +4,8 @@ This repository contains the HTML and CSS for my personal resume, styled to rese
 
 ## View the Resume
 
-You can view the live version of the resume at: [https://dpraj007.github.io](https://dpraj007.github.io)
+You can view the live version of the resume at: [https://dpraj007.github.io](https://dpraj007.github.io-google_styled_resume
+)
 
 Replace `dpraj007` with your actual GitHub username if it's different.
 
